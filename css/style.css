@@ -39,14 +39,13 @@ body {
 
 .navbar{
   background-color: var(--second-color);
-  /* opacity: 0.9; */
 }
 .navbar .navbar-nav{
   margin-right: 0 !important;
 }
 .navbar .navbar-nav .nav-link,
 .navbar .navbar-brand {
-  color: white;
+  color: rgb(255, 255, 250);
 }
 .navbar .navbar-nav .nav-link.active,
 .navbar .navbar-nav .nav-link:hover,
